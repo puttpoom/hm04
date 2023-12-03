@@ -214,6 +214,15 @@ footer {
   font-size: 2rem;
 }
 
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover {
+  transition: 0.2s ease-in;
+  font-size: 2.2rem;
+  color: #ff6464;
+}
+
 .icon-text {
   font-size: 0.8rem;
 }
